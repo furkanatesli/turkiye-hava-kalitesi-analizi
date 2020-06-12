@@ -205,3 +205,11 @@ Diğer görselimse tahmin verilerine ait eğilim, haftalık ve yıllık olarak e
 İkinci grafiğe(weekly) baktığımızda PM10 değerinin haftanın hangi günlerinde artış ve azalış gösterdiğini görebiliyoruz. Pazar günleri artmaya başlayan değer Salı gününe kadar artışını devam ettirip sonra Cuma gününe kadar düşüş gerçekleştirmiş. Buradan PM10 değerinin artış sebebinin çalışma zamanlarına bağlayabiliriz.
 
 Üçüncü grafiğe(yearly) baktığımızda yaz aylarında düşen eğilim sonbahar ve kış aylarında artış gösterdiği görülüyor. Bunu etkileyen faktörlerse havaların soğumasına bağlı olarak artak katı yakıt tüketimi olarak değerlendirebiliriz.
+
+#### Katkı İçin
+
+	1. Forkla (https://github.com/furkanatesli/turkiye-hava-kalitesi-analizi/fork)
+	2. Yeni özellik dalını oluştur (`git checkout -b [dal_adi]`)
+	3. Değişiklikleri ekleyin (`git commit -am 'yenilikler eklendi'`)
+	4. Dalı gönderin (`git push origin [dal_adi]`)
+	5. Yeni bir Pull Request isteği oluşturun
